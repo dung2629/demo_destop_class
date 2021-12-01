@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d946d68e9b02ff847c956d186b7ad560",
+  "assets/AssetManifest.json": "89ff517324fa53875dfb3835b14d8d1a",
 "assets/assets/flutter_i18n/en.json": "40a2d0232bac6c9d1f20c0fe6362ee87",
 "assets/assets/flutter_i18n/vi.json": "183ea086e6a49c20b976699517a82739",
 "assets/assets/icon/activate_shortcut.svg": "f82f6625c78e3f6505d44bca76f07474",
@@ -188,6 +188,7 @@ const RESOURCES = {
 "assets/assets/shortcuts/milestone_shortcut.svg": "e44e5b62dfd4ed6430e96724c0e7762c",
 "assets/assets/shortcuts/mission_shortcut.svg": "c51453eb64b27333f4576316b9a711f4",
 "assets/assets/shortcuts/mission_shortcut_coming_soon.png": "89ab34fae89d2ec4429e8d4a02681c11",
+"assets/assets/shortcuts/mission_shortcut_coming_soon.svg": "bbfe80255c4163af047af25440ec2456",
 "assets/assets/shortcuts/rank_shortcut.svg": "a0bd8d0f907fbc86e56e28616c95996c",
 "assets/assets/shortcuts/video_shortcut.svg": "acb6b6d9af18230757502b6e7557fef6",
 "assets/assets/sounds/correct.m4a": "b539317edeeef60e8359e5cbd1f1d9a9",
@@ -251,9 +252,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f83d73b543a98381e04d97494f8d9833",
-"/": "f83d73b543a98381e04d97494f8d9833",
-"main.dart.js": "3862f4586ca33509ff3eb40b89a199eb",
+"index.html": "7ff54af45c8261afc42bd604bfaf119a",
+"/": "7ff54af45c8261afc42bd604bfaf119a",
+"main.dart.js": "ed9ebdda2a26e2d61e0482c854cbb5bb",
 "manifest.json": "ad7c693cab3c5dc9a84865e6d2e03835",
 "version.json": "b38a4a92c49fb8b846f177e15105b731"
 };
